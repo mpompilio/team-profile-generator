@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Project 10",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpompilio/team-profile-generator.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "mpompilio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpompilio/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/mpompilio/team-profile-generator#readme"
+}
